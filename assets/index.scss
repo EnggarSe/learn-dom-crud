@@ -1,0 +1,12 @@
+
+section{
+    ul{
+        display: flex;
+        flex-direction: column;
+    }
+    li{
+
+        justify-content: space-between;
+        width: 20%;
+    }
+}
